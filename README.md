@@ -1,4 +1,4 @@
-# opensource_docker_project
+
 본 API 시스템은 제조 공정의 수율 향상 및 불량률 최소화를 위한 **지능형 품질 검사(Intelligent Quality Inspection)** 백엔드 서비스입니다. 
 산업경영공학의 통계적 품질 관리(SQC) 기법과 딥러닝 기반 컴퓨터 비전 기술을 융합하여 실시간으로 부품의 결함을 탐지합니다.
 
